@@ -4,7 +4,7 @@
 
 本文介绍了如何在树莓派上基于python2安装opencv并进行人脸识别
 
-![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjcCjp8UjRtBUVV63pG-69038v04ZUKiRn48gTLM6OkLMRTnPMjT2KSG3p49B-x7r40o&usqp=CAU)
+![](https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20211018194828.png)
 
 Q：为什么不用Python3
 
