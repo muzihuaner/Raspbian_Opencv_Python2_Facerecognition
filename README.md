@@ -1,0 +1,2 @@
+# Raspbian_Opencv_Python2_Facerecognition
+在树莓派上基于Python2进行人脸识别
